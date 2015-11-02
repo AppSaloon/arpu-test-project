@@ -13,7 +13,7 @@
  * @wordpress-plugin
  * Plugin Name:       ARPU Test Project for GitHub
  * Description:       Plugin used to test the updating functionality of the ARPU plugin (during development)
- * Version:           1.0.0
+ * Version:           1.0.2
  * Author:            AppSaloon
  * Author URI:        http://www.appsaloon.be
  */
