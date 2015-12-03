@@ -12,8 +12,8 @@
  *
  * @wordpress-plugin
  * Plugin Name:       ARPU Test Project for GitHub
- * Description:       Plugin used to test the updating functionality of the ARPU plugin (during development)
- * Version:           1.0.3
+ * Description:       Plugin used to test the updating functionality of the ARPU plugin
+ * Version:           1.0.4
  * Author:            AppSaloon
  * Author URI:        http://www.appsaloon.be
  */
@@ -25,7 +25,7 @@ function arpu_github_test_add_to_github_plugins( $github_plugins ) {
         'plugin_file' => __FILE__,
         'github_owner' => 'AppSaloon',
         'github_project_name' => 'arpu-test-project',
-        'access_token' => '27dfbbcf0b78579865f6aa0e6530014b71bb0e77'
+        'access_token' => '2b2c235880753c72a986c4659154ad69c76acc96'
     );
 
     return $github_plugins;
